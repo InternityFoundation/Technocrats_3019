@@ -13,6 +13,9 @@ LIBRARIES REQUIRED:-
 
 DATA REQUIRED:- 
 shape_predictor_68_face_landmarks.dat :- This file is required to mark the coordinates on our face (highly important).
+We have to download this file from the given provided link because we were not able to upload more than 25MB file.
+Link to .dat file:  
+https://www.google.com/url?hl=en&q=http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2&sa=D&ust=1594452190551000&usg=AFQjCNFLWBTveYphUvObp1CysdqkNku-oA
 
 
 
