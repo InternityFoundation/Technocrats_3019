@@ -18,9 +18,7 @@ Link to .dat file:
 https://www.google.com/url?hl=en&q=http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2&sa=D&ust=1594452190551000&usg=AFQjCNFLWBTveYphUvObp1CysdqkNku-oA
 
 2. haarcascade_frontalface_default.xml
-We have to download this file from the given provided link because we were not able to upload more than 25MB file.
-Link to .xml file:
-https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
+
 
 
 
