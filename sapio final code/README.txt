@@ -12,10 +12,15 @@ LIBRARIES REQUIRED:-
 
 
 DATA REQUIRED:- 
-shape_predictor_68_face_landmarks.dat :- This file is required to mark the coordinates on our face (highly important).
+1. shape_predictor_68_face_landmarks.dat :- This file is required to mark the coordinates on our face (highly important).
 We have to download this file from the given provided link because we were not able to upload more than 25MB file.
 Link to .dat file:  
 https://www.google.com/url?hl=en&q=http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2&sa=D&ust=1594452190551000&usg=AFQjCNFLWBTveYphUvObp1CysdqkNku-oA
+
+2. haarcascade_frontalface_default.xml
+We have to download this file from the given provided link because we were not able to upload more than 25MB file.
+Link to .xml file:
+https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
 
 
 
@@ -38,3 +43,4 @@ FILES YOU HAVE TO RUN:-
 3. facial recognition with youtube.ipynb 
 4. facial recognition with videos in system.ipynb
 
+NOTE: The code might take a bit longer as it all depends on speed of processor so please keep bit patience while running the code. 
