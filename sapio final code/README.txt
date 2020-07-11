@@ -20,15 +20,12 @@ https://www.google.com/url?hl=en&q=http://dlib.net/files/shape_predictor_68_face
 2. haarcascade_frontalface_default.xml
 
 
-
-
 FUNCTION:-
 
 -->We have made the user defined function for face recognition as well as for face extraction.
 1. user defined face extraction.ipynb : This file is for face extraction
 2. facial recognition.ipynb: This file is for facial recognition 
 (Important reminder: Due to some system configuration we were not able to compile and make a user defined facial recognition function. So have seperated the function itno 3 parts namely facial recognitioon by webcam, facial recognition by youtube videos and facial recognition by internal memory.) 
-
 
 
 IMPORTANT:-
