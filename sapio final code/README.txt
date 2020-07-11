@@ -31,7 +31,7 @@ FUNCTION:-
 IMPORTANT:-
 FILES YOU HAVE TO RUN:-
 1. user defined facial extraction.ipynb
-2. Face Recognition part 1 pc .ipynb
+2. Face Recognition part 1 pc.ipynb
 3. Face Recognition part 2 youtube.ipynb 
 4. Face Recognition part 3 webcam.ipynb
 We can run any of the files 2, 3 or 4 it depends on the user input. Running 1 is compulsary.
