@@ -27,11 +27,8 @@ FUNCTION:-
 -->We have made the user defined function for face recognition as well as for face extraction.
 1. user defined face extraction.ipynb : This file is for face extraction
 2. user defined facial recognition.ipynb: This file is for facial recognition 
-(Important reminder: Due to some system configuration we were not able to compile and make a user defined facial recognition function as it was taking too long
-(2-3 hours just to read the part of all the files) So have seperated the function itno 3 parts namely facial recognitioon by webcam, facial recognition by youtube videos and facial recognition by internal memory.) 
+(Important reminder: Due to some system configuration we were not able to compile and make a user defined facial recognition function. So have seperated the function itno 3 parts namely facial recognitioon by webcam, facial recognition by youtube videos and facial recognition by internal memory.) 
 
-
--->Just in case the user defined functions don't work we have made separate files for face recognition as well as for face extraction.
 
 
 IMPORTANT:-
